@@ -13,8 +13,7 @@ body {
     border: 5px solid black;
     background-color: #3A5475;
     border-radius: 10px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 30px auto 0 auto;
     padding: 30px
 }
 
